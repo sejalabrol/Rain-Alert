@@ -2,7 +2,7 @@
 A python code that sends an alert in the form of a text message to the user's mobile number when it's going to rain within the next 12 hours in the user's mentioned location.
 
 ## Screenshots
-
+![rainAlert](https://user-images.githubusercontent.com/87208681/126847108-83a0591d-0a7a-4657-9ecf-e321c242b55e.jpeg)
 
 ## Tools
  - [Twilio](https://www.twilio.com/)
@@ -12,8 +12,9 @@ A python code that sends an alert in the form of a text message to the user's mo
 
 ## Environment Variables
 To run this project, you will need to add the following environment variables to your .env file
-`OWP_API_KEY` `TWILIO_ACCOUNT_SID` `TWILIO_AUTH_TOKEN` 
-`SENDERS_NUMBER` `RECEIVERS_NUMBER` `LATITUDE` `LONGITUDE`
+
+`OWP_API_KEY` `TWILIO_ACCOUNT_SID` `TWILIO_AUTH_TOKEN` `SENDERS_NUMBER` `RECEIVERS_NUMBER` `LATITUDE` `LONGITUDE`
+
 Refer to env template in the project
 
 ## Run Locally
