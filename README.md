@@ -8,7 +8,7 @@ A python code that sends an alert in the form of a text message to the user's mo
  - [Twilio](https://www.twilio.com/)
  - [OpenWeather](https://openweathermap.org/)
  - [LatLong.net](https://www.latlong.net/)
- - [PythonAnywhere](https://www.pythonanywhere.com/)
+ - [PythonAnywhere](https://www.pythonanywhere.com/) (for deployment)
 
 ## Environment Variables
 To run this project, you will need to add the following environment variables to your .env file
