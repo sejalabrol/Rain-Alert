@@ -30,7 +30,7 @@ Create a .env file and enter environment variables
 ```bash
   cp .env.template .env
 ```
-Create a virtual environment (optional)
+Create a virtual environment (optional) - https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
 ```bash
   python -m venv venv
   source venv/Scripts/activate
