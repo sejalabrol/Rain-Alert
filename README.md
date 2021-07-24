@@ -2,7 +2,7 @@
 A python code that sends an alert in the form of a text message to the user's mobile number when it's going to rain within the next 12 hours in the user's mentioned location.
 
 ## Screenshots
-![rainAlert](https://user-images.githubusercontent.com/87208681/126847108-83a0591d-0a7a-4657-9ecf-e321c242b55e.jpeg)
+<img src="https://user-images.githubusercontent.com/87208681/126847108-83a0591d-0a7a-4657-9ecf-e321c242b55e.jpeg" width="400">
 
 ## Tools
  - [Twilio](https://www.twilio.com/)
