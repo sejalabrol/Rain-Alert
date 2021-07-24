@@ -15,16 +15,16 @@ To run this project, you will need to add the following environment variables to
 
 `OWP_API_KEY` `TWILIO_ACCOUNT_SID` `TWILIO_AUTH_TOKEN` `SENDERS_NUMBER` `RECEIVERS_NUMBER` `LATITUDE` `LONGITUDE`
 
-Refer to the [env template](https://github.com/sejalabrol/Rain-Alert/blob/main/.env.template)
+Refer to the [env template](https://github.com/sejalabrol/rain-alert/blob/main/.env.template)
 
 ## Run Locally
 Clone the project
 ```bash
-  git clone https://github.com/sejalabrol/Rain-Alert
+  git clone https://github.com/sejalabrol/rain-alert
 ```
 Go to the project directory
 ```bash
-  cd Rain-Alert
+  cd rain-alert
 ```
 Create a .env file and enter environment variables
 ```bash
