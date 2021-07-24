@@ -15,7 +15,7 @@ To run this project, you will need to add the following environment variables to
 
 `OWP_API_KEY` `TWILIO_ACCOUNT_SID` `TWILIO_AUTH_TOKEN` `SENDERS_NUMBER` `RECEIVERS_NUMBER` `LATITUDE` `LONGITUDE`
 
-Refer to env template in the project
+Refer to the [env template](https://github.com/sejalabrol/Rain-Alert/blob/main/.env.template)
 
 ## Run Locally
 Clone the project
